@@ -1,0 +1,17 @@
+{
+	"version": "0.0.1",
+	"repositories": [
+		{
+			"name": "AppVeyor",
+			"description": "Provides a staring point for Cake when using AppVeyor"
+		},
+		{
+			"name": "Azure DevOps",
+			"description": "Provides a staring point for Cake when using Azure DevOps"
+		},
+		{
+			"name": "GitHubActions",
+			"description": "Provides a staring point for Cake when using GitHub Actions"
+		}
+	]
+}
